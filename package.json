@@ -1,0 +1,16 @@
+{
+  "name": "js-algoriths-problems",
+  "version": "1.0.0",
+  "description": "my own space for practice js problems",
+  "main": "index.js",
+  "author": "Kevin Mancera",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
